@@ -1,3 +1,10 @@
+## 1.0.4 (2026-03-04)
+
+#### Bug Fixes
+
+* update workflow (671ed23c)
+
+
 ## 1.0.3 (2024-11-05)
 
 #### Bug Fixes
